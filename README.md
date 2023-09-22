@@ -6,7 +6,7 @@
 
 ![Banner-de-Twitch-Nubes-Gamer-Chica-Morado.png](https://i.postimg.cc/15q3LFXF/Banner-de-Twitch-Nubes-Gamer-Chica-Morado.png)
 
-## Tarea 5 Practica MovieDB
+## Tarea 5 Practica imagenes
 
 ## Descripción
 La aplicación desarrollada muestra un botón personalizado y un carrusel de imágenes. El botón personalizado cambia su texto cada vez que se presiona, y el carrusel de imágenes permite al usuario desplazarse a través de una serie de imágenes. La aplicación utiliza un StatefulWidget para mantener el estado interno y demostrar cómo actualizar la interfaz de usuario en respuesta a las interacciones del usuario.
@@ -14,7 +14,7 @@ La aplicación desarrollada muestra un botón personalizado y un carrusel de im�
 ## Características
 | Característica         | Información                                                              |
 |------------------------|--------------------------------------------------------------------------|
-| Nombre                 | Practica 7 Statefull widget                                      |
+| Nombre                 | Practica 7 imagenes                                     |
 | Descripción            | La aplicación desarrollada muestra un botón personalizado y un carrusel de imágenes. El botón personalizado cambia su texto cada vez que se presiona, y el carrusel de imágenes permite al usuario desplazarse a través de una serie de imágenes. La aplicación utiliza un StatefulWidget para mantener el estado interno y demostrar cómo actualizar la interfaz de usuario en respuesta a las interacciones del usuario.|
 | Fecha de Carga         | 22/09/23                                                                 |
 
