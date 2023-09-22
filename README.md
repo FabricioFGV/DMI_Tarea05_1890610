@@ -20,5 +20,7 @@ La aplicación desarrollada muestra un botón personalizado y un carrusel de im�
 
 # Screenshots
 
-<img src="https://github.com/FabricioFGV/DMI_Practica07_180610_moviedb/blob/main/Screenshot_20230922-133448.jpg"> 
-<img src="https://github.com/FabricioFGV/DMI_Practica07_180610_moviedb/blob/main/Screenshot_20230922-133455.jpg"> 
+<img src="https://github.com/FabricioFGV/DMI_Tarea05_1890610/blob/main/Screenshot_20230922-143714.jpg"> 
+<img src="https://github.com/FabricioFGV/DMI_Tarea05_1890610/blob/main/Screenshot_20230922-143721.jpg"> 
+<img src="https://github.com/FabricioFGV/DMI_Tarea05_1890610/blob/main/Screenshot_20230922-143729.jpg"> 
+
